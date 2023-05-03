@@ -1,3 +1,0 @@
-It's New Line for Cherry Pick.
-File-2
-This is a End Line.
