@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 File-3 change from local
+=======
+File-3 Change for remote
+>>>>>>> origin/main
