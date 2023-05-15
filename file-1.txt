@@ -1,4 +1,4 @@
 Hello World
-<<<<<<< HEAD
+HEAD 2
 Hello tag.
 Hello tag
