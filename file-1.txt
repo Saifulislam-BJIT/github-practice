@@ -1,4 +1,1 @@
-Hello World
-HEAD 2
-Hello tag.
-Hello tag
+Coming Stash file.
