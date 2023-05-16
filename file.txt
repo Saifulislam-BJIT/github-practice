@@ -1,2 +1,2 @@
-Hi, I am text
-Hi, I am Text
+Hi, I am text.
+Hi, I am Text.
